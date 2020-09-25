@@ -1,4 +1,4 @@
-# Bootstrap-Portfolio
+# Bootstrap-Portfolio - Trenton Wade
 
 To create my portfolio I combined knowledge that we have learned in class with different information around the internet.
 
